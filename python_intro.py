@@ -1,5 +1,7 @@
 
 # To Activate venv enter source myvenv/bin/activate
+# To run server type python manage.py runserver
+
 def hi(name):
     print('Hi ' + name + '!')
 
