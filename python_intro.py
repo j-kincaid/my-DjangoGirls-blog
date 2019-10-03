@@ -2,6 +2,10 @@
 # To Activate venv enter source myvenv/bin/activate
 # To run server type python manage.py runserver
 
+### In your PythonAnywhere command-line
+# cd ~/<your-pythonanywhere-domain>.pythonanywhere.com
+# git pull
+
 def hi(name):
     print('Hi ' + name + '!')
 
